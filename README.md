@@ -1,17 +1,22 @@
-# Rafael Garcia :man_technologist:
+<h1>
+  <p align='center'>
+    Rafael Garcia 👋
+  </p>
+</h1>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RafaelGarciia)](https://github.com/RafaelGarciia)
-[![Outlook Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:RafaelGarcia.oliveira32@gmail.com)](mailto:RafaelGarcia.oliveira32@gmail.com)
+<div align='center' style='display: inline_block'>
+  <img align='center' alt='Github Badge' height='30' width='90' src='https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RafaelGarciia'>
+  <img align='center' alt='Gmail Badge' height='30' width='90' src='https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:RafaelGarcia.oliveira32@gmail.com'>
+</div>
 
+<div align='center'><br>
+  <p>- 📚 Cursando Bacharelado em Tecnologia da Informação na <a href='https://univesp.br'>Univesp</a>.</p>
+</div>
 
-
-- :books: Cursando Bacharelado em Tecnologia da Informação na [Univesp](https://univesp.br). :heart:
-
-<br>
-
-## ⭐ GitHub Stats
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=RafaelGarciia&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGarciia&hide=css,java,html&theme=tokyonight">
-</p>
+<div align="center">
+  <a href="https://github.com/RafaelGarciia">
+  <p align='center'>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RafaelGarciia&show_icons=true&theme=dark">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGarciia&layout=compact&langs_count=7&theme=dark"/>
+  </p>
+</div>
